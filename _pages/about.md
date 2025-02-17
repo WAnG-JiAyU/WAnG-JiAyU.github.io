@@ -2,27 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.sorbonne-universite.fr/'>Sorbonne University</a>
+subtitle: >
 
 profile:
-  align: left
-  image: PhotoJiayu.jpeg
+  align: right
+  image: PhotoJiayu2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>Institut Jean le Rond d'Alembert</p>
+#    <p>Sorbonne Université, campus Pierre et Marie Curie (Jussieu)</p>
+#    <p>Tour 55-65, bureau 317A</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, this is a test, I like add tests.
+I am a PhD student in Mechanics at at <a href='http://www.dalembert.upmc.fr/ijlrda/'>l'Institut Jean Le Rond d'Alembert</a>, <a href='https://www.sorbonne-universite.fr/'>Sorbonne University</a>.
 
+My PhD research focuses on elasto-capillary interactions, exploring how elasticity and capillarity interplay in mechanical systems. Additionally, I study structural mechanics, analyzing instabilities and nonlinear behaviors using theoretical modeling and numerical analysis.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My methods are deeply connected to optimization, stability analysis, and bifurcation theory. Since the beginning of my PhD, I have developed extensive expertise in numerical simulations and coding. While my primary focus is on theoretical modeling, I remain open to experimental work when needed.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Looking ahead, I aim to further explore elasto-capillary interactions from a fluid mechanics perspective, as well as study other instability problems and the mechanics of soft materials. I am particularly interested in advancing theoretical modeling and numerical analysis to gain deeper insights into these complex mechanical phenomena.
