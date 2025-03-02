@@ -3,14 +3,13 @@ layout: page
 title: Confined Elastica
 description: An Elastica confined between two walls
 img: assets/img/Roman_problem.png
-importance: 2
+importance: 3
 category: More
 related_publications: false
 ---
-Here we are interested in the behaviors of an Elastica (inextensible, elsatic beam) confined between two walls. 
+Here we are interested in the behaviors of an Elastica (inextensible, elsatic beam) confined between two walls, which is a well-studied classical problem.
 
 
-</br>
 <div class="row">
     <div class="col-md-8 offset-md-2">
         {% include video.liquid path="assets/video/Roman_Problem_video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
