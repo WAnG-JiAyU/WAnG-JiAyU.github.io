@@ -15,7 +15,7 @@ related_publications: false
             {% include figure.liquid loading="eager" path="assets/img/Setup_Pending_Drop.png" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="row">
-            Here we study a pending drop, attached to a substrat with fixed radius. The results are obtained by minimising the total energy of the system using optimiser <a href='https://casadi.org/'>CasADi</a>. 
+            Here we study a pending drop, attached to a substrat with fixed radius. The results are obtained by minimising the total energy of the system using optimiser <a href='https://web.casadi.org'>CasADi</a>. 
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
