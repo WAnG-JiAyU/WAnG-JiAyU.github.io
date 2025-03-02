@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Mechanics at at <a href='http://www.dalembert.upmc.fr/ijlrda/'>l'Institut Jean Le Rond d'Alembert</a>, <a href='https://www.sorbonne-universite.fr/'>Sorbonne University</a>. I am always curious about how things work in nature, and I'd love to explain them by science.
+I am a PhD student at <a href='http://www.dalembert.upmc.fr/ijlrda/'>l'Institut Jean Le Rond d'Alembert</a>, <a href='https://www.sorbonne-universite.fr/'>Sorbonne University</a>. I am always curious about how things work in nature, and I'd love to explain them by science.
 
 My PhD research focuses on elasto-capillary interactions, exploring how elasticity and capillarity interplay in mechanical systems. Additionally, I study structural mechanics, analyzing instabilities and nonlinear behaviors. My methods are deeply connected to optimization, stability analysis, and bifurcation theory. 
 
