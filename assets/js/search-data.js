@@ -111,6 +111,16 @@ ninja.data = [{
           description: "Elastic beam growing in an elastic ring",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-hydrothermal-vents",
+          title: 'Hydrothermal vents',
+          description: "Experimental study of hydrothermal vents&#39; formation and interaction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-instabilities-in-supercritical-fluids",
+          title: 'Instabilities in supercritical fluids',
+          description: "Numerical study (DNS) of the transition to turbulence in supercritical fluids",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
         id: 'social-email',
         title: 'email',
