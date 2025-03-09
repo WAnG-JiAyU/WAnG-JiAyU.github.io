@@ -7,8 +7,7 @@ importance: 2
 category: More
 bibliography: CiteOthers.bib
 ---
-Here we study the behaviors of a coupled system : an elastic beam on a drop. This is inspired by the super-extensible spider silk thanks to elasto-capillary interactions. Previous works have already proposed some models to the phenomenon
-<d-cite key="elettro_coiling_2015"></d-cite><d-cite key="herve_elettro_elastocapillary_2017"></d-cite>.
+Here we study the behaviors of a coupled system : an elastic beam on a drop. This is inspired by the super-extensible spider silk thanks to elasto-capillary interactions. Previous works have already proposed some models to the phenomenon<d-cite key="elettro_coiling_2015"></d-cite><d-cite key="herve_elettro_elastocapillary_2017"></d-cite>.
 
 
 In our 2D model, the drop is deformable. The problem is wrtten as a constrained optimisation problem and implemented in Python with <a href='https://web.casadi.org'>CasADi</a>. The video below showing the solution of a set of given material parameters. With different parameter values, the system behaves differently. Hysteresis can be observed. 
