@@ -8,7 +8,7 @@ category: Past
 
 bibliography: CiteOthers.bib
 ---
-This is the project of my research internship with <a href='https://le.ac.uk/people/benjamin-bugeat'>Dr. B. Bugeat</a> in the groupe of <a href='https://www.tudelft.nl/staff/r.pecnik/'>Pr. Pecnik</a>.
+This is the project of my research internship with <a href='https://le.ac.uk/people/benjamin-bugeat'>Dr. B. Bugeat</a> in the groupe of <a href='https://www.tudelft.nl/staff/r.pecnik/'>Prof. Pecnik</a>.
 
 In an incompressible isothermal flat-plate boundary layer flow, the unstable eigen-modes known as TS waves, the related secondary modes, and their contributions to the laminar-turbulent transition have long since been investigated. Recently, Ren et al.<d-cite key="Ren_Marxen_Pecnik_2019"></d-cite> discovered a new unstable mode in a boundary layer flow of supercritical CO2. The main objectives of this study are to examine the possible secondary instability related to this newly discovered mode through direct numerical simulation (DNS), analyze the nonlinear effects and resonance interactions which may come along, and finally discuss their potential effects on transition.
 

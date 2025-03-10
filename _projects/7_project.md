@@ -9,7 +9,7 @@ category: Past
 bibliography: CiteOthers.bib
 ---
 
-This is the project of my research internship with <a href='http://www.lmm.jussieu.fr/~antkowiak/'>Pr. Antkowiak</a>. I did experiences to study the formation and interaction of hydrothermal chimneys.
+This is the project of my research internship with <a href='http://www.lmm.jussieu.fr/~antkowiak/'>Prof. Antkowiak</a>. I did experiences to study the formation and interaction of hydrothermal chimneys.
 
 The hydrothermal chimneys are located relatively far from mid-ocean ridge, ejecting basic fluids of moderate temperature, and their color is white. They are different from the 'black smokers', which are located on the mid-ocean ridge, and the ejected fluids are hot and acidic. <d-cite key="doi:10.1126/science.203.4385.1073"></d-cite>
 
