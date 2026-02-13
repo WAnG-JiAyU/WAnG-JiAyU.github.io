@@ -296,7 +296,7 @@ scholar:
 
   query: "@*"
   group_by: type
-  group_order: descending
+  group_order: ascending
   sort_by: year,month
   order: descending
 

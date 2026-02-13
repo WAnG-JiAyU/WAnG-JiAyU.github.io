@@ -1,11 +1,20 @@
 {
   "work": [
     {
+      "name": "Laboratoire Interdisciplinaire de Physique, Université Grenoble Alpes",
+      "location": "Saint-Martin-d'Hères, Fr.",
+      "position": "Postdoctoral researcher",
+      "startDate": "2025-12",
+      "endDate": "-",
+      "summary": "Under the supervision of E. Siefert",
+      "highlights": ["Subject : Dynamic control of Gaussian morphing structures (ERC project DynaMorph)"]
+    },
+    {
       "name": "L'institut Jean Le Rond d'Alembert, Sorbonne University",
       "location": "Paris, France",
       "position": "PhD student",
       "startDate": "2022-10",
-      "endDate": "-",
+      "endDate": "2025-10",
       "summary": "Under the supervision of S. Neukirch and A. Antkowiak",
       "highlights": ["Subject : Buckling and packing of beams and plates inside liquid cavities.", "Theoretical and numerical study."]
     },
@@ -76,6 +85,14 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "ChangeNOW",
+      "location": "Paris, France",
+      "position": "Volunteer, logistic team",
+      "startDate": "2025-04",
+      "endDate": "2025-04",
+      "summary": "Reception and coordination of the conference."
+    },
     {
       "organization": "Ville de Paris",
       "location": "Paris, France",
