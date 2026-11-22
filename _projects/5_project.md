@@ -3,7 +3,7 @@ layout: distill #
 title: Soaked membrane
 description: elasto-capillary effects of a soaked membrane 
 img: assets/img/Membrane.png
-importance: 1
+importance: 4
 category: More
 
 bibliography: CiteOthers.bib

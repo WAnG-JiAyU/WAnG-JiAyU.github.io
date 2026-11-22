@@ -3,7 +3,7 @@ layout: distill #
 title: Flexible fibre & Deformable ring
 description: Elastic beam growing in an elastic ring 
 img: assets/img/Beam_ring.svg
-importance: 5
+importance: 9
 category: More
 
 bibliography: CiteOthers.bib
@@ -11,7 +11,7 @@ bibliography: CiteOthers.bib
 
 This simulation is inspired by the work of A. Cutolo et al. <d-cite key="D3SM00348E"></d-cite>.
 
-The simulation is coded as an constrained optimization problem with <a href='https://web.casadi.org'>CasADi</a>.
+The simulation is coded as a constrained optimization problem with <a href='https://web.casadi.org'>CasADi</a>.
 <!-- <d-footnote>This will become a hoverable footnote.</d-footnote> -->
 <div class="row">
     <div class="col-md-8 offset-md-2">

@@ -3,7 +3,7 @@ layout: distill
 title: Drop & Fibre
 description: Elastic beam coiling around a drop
 img: assets/img/DropFibre.png
-importance: 2
+importance: 5
 category: More
 bibliography: CiteOthers.bib
 ---

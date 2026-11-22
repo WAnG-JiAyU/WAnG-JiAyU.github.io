@@ -3,7 +3,7 @@ layout: page
 title: Confined Elastica
 description: An Elastica confined between two walls
 img: assets/img/Roman_problem.png
-importance: 3
+importance: 6
 category: More
 related_publications: false
 ---
