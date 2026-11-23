@@ -1,5 +1,5 @@
 ---
-layout: distill # 
+layout: page # 
 title: Cable-acturated Elastic bars/bands
 description: Deforming elastic bands by a simple pull
 img: assets/img/CableBand_Spiral.jpg

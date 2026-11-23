@@ -1,5 +1,5 @@
 ---
-layout: distill # 
+layout: page # 
 title: Elastic-viscoelastic composite bands
 description: Dynamic deformation thanks to the elastic-viscoelastic coupling
 img: assets/img/viscoelastic_demo_wrinkling.jpg
